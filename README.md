@@ -1,2 +1,2 @@
-## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
+## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="40.5px" />
 
